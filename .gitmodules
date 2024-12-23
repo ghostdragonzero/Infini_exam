@@ -1,0 +1,6 @@
+[submodule "exams"]
+	path = exams
+	url = https://github.com/ghostdragonzero/exam_test.git
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/ghostdragonzero/exam_test.git
